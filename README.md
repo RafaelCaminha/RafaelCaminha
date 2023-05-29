@@ -18,7 +18,7 @@
   <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/RafaelCaminha/RafaelCaminha/d8303ee5928367520ea046a79024667d6cb35e6b/Icons/cypress.svg">
   <img align="center" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Manjaro" height="30" width="40" src="https://raw.githubusercontent.com/RafaelCaminha/RafaelCaminha/main/Icons/manjaro.svg">
-  <img align="center" alt="RobotF" height="30" width="40" src="https://raw.githubusercontent.com/RafaelCaminha/RafaelCaminha/main/Icons/robotframework.svg">
+  <img align="center" alt="RobotF" height="20%" width="40" src="https://raw.githubusercontent.com/RafaelCaminha/RafaelCaminha/main/Icons/robotframework.svg">
 </div>
 
    ##
